@@ -34,6 +34,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Freshping
+      href: https://statuspage.freshping.io/61959-Millerslab
   # Upptime also supports notifications, assigning issues, and more
   # See https://upptime.js.org/docs/configuration
-  apiBaseUrl: https://api.github.com
