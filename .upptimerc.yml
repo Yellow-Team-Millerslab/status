@@ -33,5 +33,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  # Upptime also supports notifications, assigning issues, and more
+  # See https://upptime.js.org/docs/configuration
+  apiBaseUrl: https://api.github.com
