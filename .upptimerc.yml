@@ -18,6 +18,7 @@ sites:
 
 assignees: # Users to assign downtime issues
   - Sam-Lin-MillersLab
+  - nicholasconfer
 
 status-website:
   publish: true
@@ -30,11 +31,11 @@ status-website:
   introTitle: Millerslab Public Web Service Uptime
   introMessage: "Powered by Upptime"
   navbar:
-    - title: Status
+    - title: Response Time
       href: /
+    - title: Uptime
+      href: https://statuspage.freshping.io/61959-Millerslab
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: Freshping
-      href: https://statuspage.freshping.io/61959-Millerslab
   # Upptime also supports notifications, assigning issues, and more
   # See https://upptime.js.org/docs/configuration
