@@ -1,6 +1,8 @@
 # [📈 Live Status](https://up.millerslab.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Yellow Team](https://up.millerslab.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Millerslab](https://up.millerslab.com), powered by [Upptime](https://github.com/upptime/upptime).
+
+🛑🛑🛑 This is a public Page. Do Not Commit sensitive Data! 🛑🛑🛑
 
 [![Uptime CI](https://github.com/Yellow-Team-Millerslab/status/workflows/Uptime%20CI/badge.svg)](https://github.com/Yellow-Team-Millerslab/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Yellow-Team-Millerslab/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Yellow-Team-Millerslab/status/actions?query=workflow%3A%22Response+Time+CI%22)
