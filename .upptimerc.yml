@@ -27,7 +27,7 @@ status-website:
   logoUrl: https://cms-assets.mpix.com/api/assets/mpix/4c6f7b50-32c1-4c60-b542-3e239d380ae7/logo-main.jpg?version=0
   name: MillersLab
   introTitle: Millerslab Public Web Service Uptime
-  introMessage:
+  introMessage: "Powered by Upptime"
   navbar:
     - title: Status
       href: /
