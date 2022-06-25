@@ -35,8 +35,6 @@ status-website:
       href: /
     - title: Uptime
       href: https://statuspage.freshping.io/61959-Millerslab
-    - title: Uptime-2
-      href: https://stats.uptimerobot.com/lmrg7I1Mor
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   # Upptime also supports notifications, assigning issues, and more
