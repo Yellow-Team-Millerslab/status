@@ -15,6 +15,8 @@ sites:
     url: https://images.mpix.com/ver/m2.5.0/98x47/logo.mpng
   - name: Millerslab.com
     url: https://www.millerslab.com
+    assignees:
+      - jbriney81
 
 assignees: # Users to assign downtime issues
   - Sam-Lin-MillersLab
@@ -22,6 +24,7 @@ assignees: # Users to assign downtime issues
 
 status-website:
   publish: true
+  favicon: https://www.millerslab.com/favicon.ico
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.millerslab.com
@@ -30,6 +33,12 @@ status-website:
   name: ""
   introTitle: Millerslab Public Web Service Uptime
   introMessage: "Powered by Upptime"
+  robotsText: "User-agent: * \n Disallow: /"
+  metaTags:
+    - name: "color-scheme"
+      content: "dark light"
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: Response Time
       href: /
