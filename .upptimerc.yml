@@ -28,7 +28,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: up.millerslab.com
-  baseUrl: /status
+  baseUrl: //yellow-team-millerslab.github.io/status
   logoUrl: https://cms-assets.mpix.com/api/assets/mpix/4c6f7b50-32c1-4c60-b542-3e239d380ae7/logo-main.jpg?version=0
   name: ""
   introTitle: Millerslab Public Web Service Uptime
@@ -41,7 +41,7 @@ status-website:
       content: "noindex"
   navbar:
     - title: Response Time
-      href: /
+      href: https://yellow-team-millerslab.github.io/status
     - title: Uptime
       href: https://statuspage.freshping.io/61959-Millerslab
     - title: GitHub
