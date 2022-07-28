@@ -41,9 +41,11 @@ status-website:
       content: "noindex"
   navbar:
     - title: Response Time
-      href: https://yellow-team-millerslab.github.io/status
+      href: https://yellow-team-millerslab.github.io/status      
     - title: Uptime
       href: https://statuspage.freshping.io/61959-Millerslab
+    - title: Paypal Status
+      href: https://www.paypal-status.com/api/production
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   # Upptime also supports notifications, assigning issues, and more
