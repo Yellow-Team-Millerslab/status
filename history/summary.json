@@ -40,18 +40,20 @@
     "url": "https://cms-assets.mpix.com/api/assets/mpix/bbadd302-7b1f-48ea-9596-2938e0775880/happy-quokka.jpg?version=0",
     "icon": "https://favicons.githubusercontent.com/cms-assets.mpix.com",
     "slug": "mpix-cms-assets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 469,
-    "timeWeek": 459,
-    "timeMonth": 475,
-    "timeYear": 463,
-    "dailyMinutesDown": {}
+    "time": 460,
+    "timeDay": 361,
+    "timeWeek": 438,
+    "timeMonth": 469,
+    "timeYear": 460,
+    "dailyMinutesDown": {
+      "2022-07-30": 0
+    }
   },
   {
     "name": "Mpix-2-print",
