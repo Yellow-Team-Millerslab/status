@@ -4,10 +4,10 @@
     "url": "https://www.mpix.com",
     "icon": "https://favicons.githubusercontent.com/www.mpix.com",
     "slug": "mpix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 440,
@@ -15,17 +15,19 @@
     "timeWeek": 289,
     "timeMonth": 360,
     "timeYear": 440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 1
+    }
   },
   {
     "name": "Mpix-api",
     "url": "https://api-production.mpix.com/api/v1.0/systeminfo",
     "icon": "https://favicons.githubusercontent.com/api-production.mpix.com",
     "slug": "mpix-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
@@ -33,16 +35,18 @@
     "timeWeek": 166,
     "timeMonth": 200,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 1
+    }
   },
   {
     "name": "Mpix-cms-assets",
     "url": "https://cms-assets.mpix.com/api/assets/mpix/bbadd302-7b1f-48ea-9596-2938e0775880/happy-quokka.jpg?version=0",
     "icon": "https://favicons.githubusercontent.com/cms-assets.mpix.com",
     "slug": "mpix-cms-assets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 359,
     "timeMonth": 445,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 0
+    }
   },
   {
     "name": "Mpix-2-print",
     "url": "https://www.mpix.com/products/prints",
     "icon": "https://favicons.githubusercontent.com/www.mpix.com",
     "slug": "mpix-2-print",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 117,
     "timeMonth": 157,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 0
+    }
   },
   {
     "name": "Mpix-2-image",
     "url": "https://images.mpix.com/ver/m2.5.0/98x47/logo.mpng",
     "icon": "https://favicons.githubusercontent.com/images.mpix.com",
     "slug": "mpix-2-image",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +95,9 @@
     "timeWeek": 210,
     "timeMonth": 312,
     "timeYear": 276,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-08": 0
+    }
   },
   {
     "name": "Millerslab.com",
