@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.mpix.com",
     "slug": "mpix",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 439,
     "timeDay": 276,
     "timeWeek": 301,
     "timeMonth": 361,
     "timeYear": 439,
-    "dailyMinutesDown": {
-      "2022-08-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mpix-api",
@@ -25,38 +23,36 @@
     "icon": "https://favicons.githubusercontent.com/api-production.mpix.com",
     "slug": "mpix-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 194,
     "timeDay": 168,
     "timeWeek": 172,
     "timeMonth": 200,
     "timeYear": 194,
-    "dailyMinutesDown": {
-      "2022-08-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mpix-cms-assets",
     "url": "https://cms-assets.mpix.com/api/assets/mpix/bbadd302-7b1f-48ea-9596-2938e0775880/happy-quokka.jpg?version=0",
     "icon": "https://favicons.githubusercontent.com/cms-assets.mpix.com",
     "slug": "mpix-cms-assets",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 438,
-    "timeDay": 243,
-    "timeWeek": 359,
+    "timeDay": 350,
+    "timeWeek": 372,
     "timeMonth": 445,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2022-08-08": 10
+      "2022-08-08": 23
     }
   },
   {
@@ -65,19 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/www.mpix.com",
     "slug": "mpix-2-print",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 116,
     "timeWeek": 123,
     "timeMonth": 157,
     "timeYear": 150,
-    "dailyMinutesDown": {
-      "2022-08-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mpix-2-image",
@@ -85,19 +79,17 @@
     "icon": "https://favicons.githubusercontent.com/images.mpix.com",
     "slug": "mpix-2-image",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 276,
     "timeDay": 195,
     "timeWeek": 214,
     "timeMonth": 310,
     "timeYear": 276,
-    "dailyMinutesDown": {
-      "2022-08-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Millerslab.com",
