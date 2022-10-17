@@ -22,19 +22,19 @@
     "url": "https://api-production.mpix.com/api/v1.0/systeminfo",
     "icon": "https://icons.duckduckgo.com/ip3/api-production.mpix.com.ico",
     "slug": "mpix-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 170,
-    "timeWeek": 196,
-    "timeMonth": 196,
-    "timeYear": 196,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 195,
+    "timeDay": 151,
+    "timeWeek": 190,
+    "timeMonth": 194,
+    "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-10-17": 0
+      "2022-10-17": 39
     }
   },
   {
