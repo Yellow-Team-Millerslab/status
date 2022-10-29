@@ -1,7 +1,7 @@
 url: https://api-production.mpix.com/api/v1.0/systeminfo
 status: up
 code: 200
-responseTime: 110
-lastUpdated: 2022-10-28T23:04:40.335Z
+responseTime: 185
+lastUpdated: 2022-10-29T23:04:36.307Z
 startTime: Fri Jun 24 2022 18:42:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
