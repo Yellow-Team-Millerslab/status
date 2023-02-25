@@ -6,17 +6,17 @@
     "slug": "mpix",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 412,
-    "timeDay": 317,
-    "timeWeek": 326,
+    "timeDay": 355,
+    "timeWeek": 325,
     "timeMonth": 531,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2023-02-24": 16,
+      "2023-02-24": 6,
       "2022-10-19": 26
     }
   },
@@ -32,9 +32,9 @@
     "uptimeMonth": "88.46%",
     "uptimeYear": "98.16%",
     "time": 190,
-    "timeDay": 141,
-    "timeWeek": 185,
-    "timeMonth": 184,
+    "timeDay": 237,
+    "timeWeek": 188,
+    "timeMonth": 185,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2023-02-08": 264,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 433,
-    "timeDay": 298,
-    "timeWeek": 372,
-    "timeMonth": 443,
-    "timeYear": 433,
+    "time": 434,
+    "timeDay": 511,
+    "timeWeek": 385,
+    "timeMonth": 442,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2022-08-08": 23
     }
@@ -81,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 147,
-    "timeDay": 111,
-    "timeWeek": 178,
-    "timeMonth": 175,
+    "timeDay": 230,
+    "timeWeek": 174,
+    "timeMonth": 177,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2022-10-20": 54
@@ -101,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 168,
-    "timeWeek": 211,
-    "timeMonth": 238,
+    "timeDay": 242,
+    "timeWeek": 210,
+    "timeMonth": 236,
     "timeYear": 246,
     "dailyMinutesDown": {}
   },
@@ -119,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 230,
-    "timeDay": 204,
-    "timeWeek": 217,
-    "timeMonth": 230,
+    "timeDay": 209,
+    "timeWeek": 213,
+    "timeMonth": 229,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2023-01-08": 48
