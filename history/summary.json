@@ -56,9 +56,9 @@
     "slug": "mpix-cms-assets",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 432,
     "timeDay": 306,
@@ -66,7 +66,6 @@
     "timeMonth": 405,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2023-03-10": 7,
       "2022-08-08": 23
     }
   },
@@ -113,9 +112,9 @@
     "url": "https://www.millerslab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.millerslab.com.ico",
     "slug": "millerslab-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -125,6 +124,7 @@
     "timeMonth": 240,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2023-03-10": 0,
       "2023-01-08": 48
     }
   }
