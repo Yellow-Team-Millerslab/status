@@ -9,14 +9,14 @@ sites:
     url: https://api-production.mpix.com/api/v1.0/systeminfo
   - name: Mpix-cms-assets
     url: https://cms-assets.mpix.com/api/assets/mpix/bbadd302-7b1f-48ea-9596-2938e0775880/happy-quokka.jpg?version=0
-  - name: Mpix-2-print
-    url: https://www.mpix.com/products/prints
+  - name: Mpix-2
+    url: https://www.mpix.com/about
   - name: Mpix-2-image
     url: https://images.mpix.com/ver/m2.5.0/98x47/logo.mpng
   - name: Millerslab.com
     url: https://www.millerslab.com
     assignees:
-      - jbriney81
+      - JohnMeents
 
 assignees: # Users to assign downtime issues
   - Sam-Lin-MillersLab
