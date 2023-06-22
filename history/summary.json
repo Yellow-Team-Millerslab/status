@@ -96,19 +96,19 @@
     "url": "https://images.mpix.com/ver/m2.5.0/98x47/logo.mpng",
     "icon": "https://icons.duckduckgo.com/ip3/images.mpix.com.ico",
     "slug": "mpix-2-image",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 276,
-    "timeWeek": 480,
-    "timeMonth": 286,
+    "timeDay": 268,
+    "timeWeek": 454,
+    "timeMonth": 285,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2023-06-22": 0
+      "2023-06-22": 5
     }
   },
   {
