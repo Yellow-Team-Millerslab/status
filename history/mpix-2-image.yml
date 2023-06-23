@@ -1,7 +1,7 @@
 url: https://images.mpix.com/ver/m2.5.0/98x47/logo.mpng
-status: up
-code: 200
-responseTime: 143
-lastUpdated: 2023-06-22T23:04:29.354Z
+status: down
+code: 503
+responseTime: 256
+lastUpdated: 2023-06-23T00:52:04.283Z
 startTime: Fri Jun 24 2022 18:42:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
