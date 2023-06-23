@@ -96,18 +96,20 @@
     "url": "https://images.mpix.com/ver/m2.5.0/98x47/logo.mpng",
     "icon": "https://icons.duckduckgo.com/ip3/images.mpix.com.ico",
     "slug": "mpix-2-image",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 226,
-    "timeWeek": 387,
-    "timeMonth": 278,
+    "timeDay": 230,
+    "timeWeek": 376,
+    "timeMonth": 277,
     "timeYear": 247,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-23": 0
+    }
   },
   {
     "name": "Millerslab.com",
