@@ -17,7 +17,10 @@ sites:
     url: https://www.millerslab.com
     assignees:
       - JohnMeents
-
+  - name: Login.millerslab.com
+    url: https://login.millerslab.com
+    assignees:
+      - JohnMeents
 assignees: # Users to assign downtime issues
   - Sam-Lin-MillersLab
   - nicholasconfer
