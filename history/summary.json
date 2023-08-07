@@ -130,5 +130,23 @@
     "dailyMinutesDown": {
       "2023-01-08": 48
     }
+  },
+  {
+    "name": "Login.millerslab.com",
+    "url": "https://login.millerslab.com",
+    "icon": "https://icons.duckduckgo.com/ip3/login.millerslab.com.ico",
+    "slug": "login-millerslab-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
