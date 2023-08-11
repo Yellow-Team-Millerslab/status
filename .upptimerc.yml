@@ -24,7 +24,6 @@ sites:
 assignees: # Users to assign downtime issues
   - Sam-Lin-MillersLab
   - nicholasconfer
-  - JohnMeents
 
 status-website:
   publish: true
