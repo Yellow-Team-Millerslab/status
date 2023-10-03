@@ -118,9 +118,9 @@
     "slug": "millerslab-com",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 227,
     "timeDay": 178,
@@ -128,7 +128,6 @@
     "timeMonth": 201,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-10-02": 6,
       "2023-08-12": 205,
       "2023-08-11": 565,
       "2023-01-08": 48
