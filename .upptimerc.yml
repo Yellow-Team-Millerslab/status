@@ -45,8 +45,14 @@ status-website:
   navbar:
     - title: Response Time
       href: https://yellow-team-millerslab.github.io/status      
-    - title: Uptime
+    - title: Freshping
       href: https://statuspage.freshping.io/61959-Millerslab
+    - title: Uptime1
+      href: https://up1.millerslab.com
+    - title: Uptime2
+      href: https://up2.millerslab.com
+    - title: Uptime3
+      href: https://up3.millerslab.com
     - title: Paypal Status
       href: https://www.paypal-status.com/api/production
     - title: GitHub
