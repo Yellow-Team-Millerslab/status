@@ -13,7 +13,6 @@
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
-
 name: Static Site CI
 on:
   schedule:
@@ -21,6 +20,9 @@ on:
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
 jobs:
   release:
     name: Build and deploy site
@@ -28,7 +30,7 @@ jobs:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
