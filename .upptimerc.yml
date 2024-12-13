@@ -47,8 +47,6 @@ status-website:
       href: https://yellow-team-millerslab.github.io/status      
     - title: Freshping
       href: https://statuspage.freshping.io/61959-Millerslab
-    - title: Freshworks
-      href: https://up1.millerslab.com
     - title: Hetrix
       href: https://up2.millerslab.com
     - title: BetterStack
