@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mpix.com.ico",
     "slug": "mpix",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 343,
-    "timeDay": 318,
-    "timeWeek": 271,
-    "timeMonth": 285,
-    "timeYear": 314,
-    "dailyMinutesDown": {
-      "2023-05-18": 6,
-      "2023-05-09": 20
-    }
+    "time": 306,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 293,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mpix-api",
@@ -26,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-production.mpix.com.ico",
     "slug": "mpix-api",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 188,
-    "timeWeek": 172,
-    "timeMonth": 183,
-    "timeYear": 196,
+    "time": 197,
+    "timeDay": 135,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -48,16 +45,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 357,
-    "timeDay": 351,
-    "timeWeek": 302,
-    "timeMonth": 317,
-    "timeYear": 339,
-    "dailyMinutesDown": {
-      "2023-06-08": 58,
-      "2023-05-07": 39
-    }
+    "uptimeYear": "100.00%",
+    "time": 322,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 340,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mpix-2",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 187,
-    "timeWeek": 170,
-    "timeMonth": 179,
-    "timeYear": 186,
+    "time": 181,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -87,16 +81,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 268,
-    "timeDay": 173,
-    "timeWeek": 164,
-    "timeMonth": 192,
-    "timeYear": 276,
-    "dailyMinutesDown": {
-      "2023-08-10": 17,
-      "2023-06-23": 58
-    }
+    "uptimeYear": "100.00%",
+    "time": 261,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Millerslab.com",
@@ -104,20 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.millerslab.com.ico",
     "slug": "millerslab-com",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 209,
-    "timeDay": 229,
-    "timeWeek": 187,
-    "timeMonth": 185,
-    "timeYear": 202,
-    "dailyMinutesDown": {
-      "2023-08-12": 205,
-      "2023-08-11": 565
-    }
+    "uptimeYear": "100.00%",
+    "time": 194,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Login.millerslab.com",
@@ -125,23 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/login.millerslab.com.ico",
     "slug": "login-millerslab-com",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 278,
-    "timeWeek": 238,
-    "timeMonth": 227,
-    "timeYear": 229,
-    "dailyMinutesDown": {
-      "2023-08-29": 33,
-      "2023-08-26": 115,
-      "2023-08-24": 24,
-      "2023-08-20": 28,
-      "2023-08-13": 23,
-      "2023-08-11": 563
-    }
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 235,
+    "dailyMinutesDown": {}
   }
 ]
