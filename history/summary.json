@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 415,
-    "timeWeek": 328,
-    "timeMonth": 615,
-    "timeYear": 402,
+    "time": 346,
+    "timeDay": 256,
+    "timeWeek": 319,
+    "timeMonth": 616,
+    "timeYear": 401,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-production.mpix.com.ico",
     "slug": "mpix-api",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 187,
-    "timeWeek": 189,
-    "timeMonth": 202,
-    "timeYear": 221,
+    "time": 202,
+    "timeDay": 123,
+    "timeWeek": 181,
+    "timeMonth": 201,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 357,
-    "timeWeek": 320,
+    "timeDay": 189,
+    "timeWeek": 303,
     "timeMonth": 313,
-    "timeYear": 316,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2025-02-26": 7
     }
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 207,
-    "timeWeek": 141,
-    "timeMonth": 152,
-    "timeYear": 177,
+    "timeDay": 120,
+    "timeWeek": 131,
+    "timeMonth": 153,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 259,
-    "timeWeek": 170,
-    "timeMonth": 181,
+    "timeDay": 157,
+    "timeWeek": 165,
+    "timeMonth": 183,
     "timeYear": 189,
     "dailyMinutesDown": {}
   },
@@ -103,9 +103,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 281,
-    "timeWeek": 255,
-    "timeMonth": 248,
+    "timeDay": 187,
+    "timeWeek": 234,
+    "timeMonth": 249,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-01-26": 8
@@ -123,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 322,
-    "timeWeek": 284,
-    "timeMonth": 291,
+    "timeDay": 216,
+    "timeWeek": 265,
+    "timeMonth": 292,
     "timeYear": 266,
     "dailyMinutesDown": {}
   }
