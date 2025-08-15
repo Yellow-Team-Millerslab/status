@@ -1,7 +1,7 @@
 url: https://www.millerslab.com
-status: up
-code: 200
-responseTime: 308
-lastUpdated: 2025-08-14T23:01:34.159Z
+status: down
+code: 503
+responseTime: 226
+lastUpdated: 2025-08-15T09:00:09.594Z
 startTime: 2022-06-24T18:42:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
