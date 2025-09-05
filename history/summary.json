@@ -4,9 +4,9 @@
     "url": "https://www.mpix.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mpix.com.ico",
     "slug": "mpix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 351,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2025-09-05": 0,
       "2025-04-22": 33
     }
   },
@@ -64,9 +65,9 @@
     "url": "https://www.mpix.com/about",
     "icon": "https://icons.duckduckgo.com/ip3/www.mpix.com.ico",
     "slug": "mpix-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -76,6 +77,7 @@
     "timeMonth": 245,
     "timeYear": 186,
     "dailyMinutesDown": {
+      "2025-09-05": 0,
       "2025-04-22": 33
     }
   },
