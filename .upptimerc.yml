@@ -21,6 +21,10 @@ sites:
     url: https://login.millerslab.com
     assignees:
       - JohnMeents
+  - name: flow.millerslab.com
+    check: "tcp-ping"
+    url: flow.millerslab.com
+    port: 21
 assignees: # Users to assign downtime issues
   - Sam-Lin-MillersLab
   - nicholasconfer
