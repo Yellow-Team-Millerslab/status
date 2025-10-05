@@ -25,6 +25,8 @@ sites:
     check: "tcp-ping"
     url: flow.millerslab.com
     port: 21
+    assignees:
+      - alsmpd
 assignees: # Users to assign downtime issues
   - Sam-Lin-MillersLab
   - nicholasconfer
