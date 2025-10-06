@@ -24,7 +24,7 @@ sites:
   - name: flow.millerslab.com
     check: "tcp-ping"
     url: flow.millerslab.com
-    port: 21Expand commentComment on line R27Code has comments. Press enter to view.
+    port: 21
     assignees:
       - alsmpd
 assignees: # Users to assign downtime issues
