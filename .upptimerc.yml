@@ -1,7 +1,7 @@
 # Change these first
 owner: Yellow-Team-Millerslab # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-
+runner: "[ubuntu-slim]"
 sites:
   - name: Mpix
     url: https://www.mpix.com
