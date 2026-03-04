@@ -51,8 +51,8 @@ status-website:
   navbar:
     - title: Response Time
       href: https://yellow-team-millerslab.github.io/status      
-    - title: Freshping
-      href: https://statuspage.freshping.io/61959-Millerslab
+    - title: Pulsetic
+      href: https://app.pulsetic.com/status/TJmxVDok
     - title: Hetrix
       href: https://up2.millerslab.com
     - title: BetterStack
