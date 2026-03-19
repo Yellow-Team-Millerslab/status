@@ -1,4 +1,4 @@
-url: https://api-production.mpix.com/api/v1.0/systeminfo
+url: https://int-api-production.mpix.com/api/v1.0/systeminfo
 status: up
 code: 200
 responseTime: 149

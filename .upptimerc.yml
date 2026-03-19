@@ -6,7 +6,7 @@ sites:
   - name: Mpix
     url: https://www.mpix.com
   - name: Mpix-api
-    url: https://api-production.mpix.com/api/v1.0/systeminfo
+    url: https://int-api-production.mpix.com/api/v1.0/systeminfo
   - name: Mpix-cms-assets
     url: https://cms-assets.mpix.com/api/assets/mpix/bbadd302-7b1f-48ea-9596-2938e0775880/happy-quokka.jpg?version=0
   - name: Mpix-2

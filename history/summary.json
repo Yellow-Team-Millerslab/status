@@ -25,8 +25,8 @@
   },
   {
     "name": "Mpix-api",
-    "url": "https://api-production.mpix.com/api/v1.0/systeminfo",
-    "icon": "https://icons.duckduckgo.com/ip3/api-production.mpix.com.ico",
+    "url": "https://int-api-production.mpix.com/api/v1.0/systeminfo",
+    "icon": "https://icons.duckduckgo.com/ip3/int-api-production.mpix.com.ico",
     "slug": "mpix-api",
     "status": "up",
     "uptime": "99.66%",
