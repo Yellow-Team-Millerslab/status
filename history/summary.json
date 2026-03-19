@@ -30,8 +30,8 @@
     "slug": "mpix-api",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 200,
@@ -40,7 +40,7 @@
     "timeMonth": 199,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2026-03-19": 0,
+      "2026-03-19": 1,
       "2025-10-04": 157,
       "2025-09-17": 11
     }
