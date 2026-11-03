@@ -4,23 +4,23 @@
     "url": "https://www.mpix.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mpix.com.ico",
     "slug": "mpix",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 514,
-    "timeDay": 501,
-    "timeWeek": 702,
-    "timeMonth": 816,
+    "timeDay": 576,
+    "timeWeek": 704,
+    "timeMonth": 813,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2026-01-10": 7,
       "2026-03-26": 65,
       "2026-06-09": 54,
       "2026-10-17": 15,
-      "2026-11-03": 0
+      "2026-11-03": 5
     }
   },
   {
