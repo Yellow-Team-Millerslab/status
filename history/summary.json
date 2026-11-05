@@ -116,11 +116,11 @@
     "url": "https://www.millerslab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.millerslab.com.ico",
     "slug": "millerslab-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.87%",
     "time": 206,
     "timeDay": 175,
@@ -144,7 +144,8 @@
       "2026-09-01": 9,
       "2026-10-09": 144,
       "2026-10-18": 273,
-      "2026-10-24": 18
+      "2026-10-24": 18,
+      "2026-11-05": 5
     }
   },
   {
@@ -152,13 +153,13 @@
     "url": "https://login.millerslab.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.millerslab.com.ico",
     "slug": "login-millerslab-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.93%",
-    "time": 324,
+    "time": 325,
     "timeDay": 493,
     "timeWeek": 334,
     "timeMonth": 656,
@@ -166,7 +167,8 @@
     "dailyMinutesDown": {
       "2026-01-22": 18,
       "2026-10-09": 102,
-      "2026-10-18": 263
+      "2026-10-18": 263,
+      "2026-11-05": 0
     }
   },
   {
