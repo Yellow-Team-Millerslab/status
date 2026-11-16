@@ -153,23 +153,23 @@
     "url": "https://login.millerslab.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.millerslab.com.ico",
     "slug": "login-millerslab-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.88%",
-    "time": 330,
-    "timeDay": 305,
-    "timeWeek": 369,
-    "timeMonth": 433,
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "99.87%",
+    "time": 331,
+    "timeDay": 389,
+    "timeWeek": 382,
+    "timeMonth": 434,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2026-01-22": 18,
       "2026-10-09": 102,
       "2026-10-18": 263,
       "2026-11-05": 219,
-      "2026-11-16": 46
+      "2026-11-16": 75
     }
   },
   {
