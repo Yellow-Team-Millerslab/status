@@ -6,12 +6,12 @@
     "slug": "mpix",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 544,
-    "timeDay": 940,
+    "timeDay": 1988,
     "timeWeek": 1213,
     "timeMonth": 921,
     "timeYear": 599,
@@ -153,9 +153,9 @@
     "url": "https://login.millerslab.com",
     "icon": "https://icons.duckduckgo.com/ip3/login.millerslab.com.ico",
     "slug": "login-millerslab-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.87%",
@@ -169,7 +169,8 @@
       "2026-10-09": 102,
       "2026-10-18": 263,
       "2026-11-05": 219,
-      "2026-11-16": 75
+      "2026-11-16": 75,
+      "2026-11-22": 0
     }
   },
   {
